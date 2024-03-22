@@ -1,0 +1,6 @@
+@NonoGram_API_react.Server_HostAddress = http://localhost:7146
+
+GET {{NonoGram_API_react.Server_HostAddress}}/api/boards/
+Accept: application/json
+
+###
